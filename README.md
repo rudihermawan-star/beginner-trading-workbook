@@ -133,10 +133,5 @@ Use tools you can explain. Start with a simple chart and add an indicator only w
 
 There is no universal timeline. Progress depends on the market, your study routine, and the quality of your practice. Review your understanding and decisions regularly rather than treating a calendar deadline as proof of skill.
 
-## Further Reading
-
-- [Investor.gov: Stop, Stop-Limit, and Trailing Stop Orders](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-15).
-- [CFTC: Eight Things You Should Know Before Trading Forex](https://www.cftc.gov/sites/default/files/2022-08/Must%20Know_Forex_FINAL%20%28002%29.pdf).
-
 This workbook provides general education. Trading can cause substantial losses. Examples are hypothetical, and product suitability depends on individual circumstances.
 
